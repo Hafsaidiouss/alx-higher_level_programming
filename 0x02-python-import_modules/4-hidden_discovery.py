@@ -7,4 +7,3 @@ if __name__ == "__main__":
     for i in range(n):
         if ls[i][0:2] != "__":
             print("{}".format(ls[i]))
-    
